@@ -15,10 +15,6 @@
 		5138B3C61D69197400FD2417 /* IDK-Thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B3961D69197400FD2417 /* IDK-Thumb.jpg */; };
 		5138B3C71D69197400FD2417 /* IDK-Thumb@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B3971D69197400FD2417 /* IDK-Thumb@2x.jpg */; };
 		5138B3C81D69197400FD2417 /* IDK-Thumb@3x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B3981D69197400FD2417 /* IDK-Thumb@3x.jpg */; };
-		5138B3C91D69197400FD2417 /* IMHO-Large.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B3991D69197400FD2417 /* IMHO-Large.jpg */; };
-		5138B3CA1D69197400FD2417 /* IMHO-Thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B39A1D69197400FD2417 /* IMHO-Thumb.jpg */; };
-		5138B3CB1D69197400FD2417 /* IMHO-Thumb@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B39B1D69197400FD2417 /* IMHO-Thumb@2x.jpg */; };
-		5138B3CC1D69197400FD2417 /* IMHO-Thumb@3x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B39C1D69197400FD2417 /* IMHO-Thumb@3x.jpg */; };
 		5138B3CD1D69197400FD2417 /* IRL-Large.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B39D1D69197400FD2417 /* IRL-Large.jpg */; };
 		5138B3CE1D69197400FD2417 /* IRL-Thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B39E1D69197400FD2417 /* IRL-Thumb.jpg */; };
 		5138B3CF1D69197400FD2417 /* IRL-Thumb@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5138B39F1D69197400FD2417 /* IRL-Thumb@2x.jpg */; };
@@ -67,10 +63,6 @@
 		5138B3961D69197400FD2417 /* IDK-Thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IDK-Thumb.jpg"; sourceTree = "<group>"; };
 		5138B3971D69197400FD2417 /* IDK-Thumb@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IDK-Thumb@2x.jpg"; sourceTree = "<group>"; };
 		5138B3981D69197400FD2417 /* IDK-Thumb@3x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IDK-Thumb@3x.jpg"; sourceTree = "<group>"; };
-		5138B3991D69197400FD2417 /* IMHO-Large.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMHO-Large.jpg"; sourceTree = "<group>"; };
-		5138B39A1D69197400FD2417 /* IMHO-Thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMHO-Thumb.jpg"; sourceTree = "<group>"; };
-		5138B39B1D69197400FD2417 /* IMHO-Thumb@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMHO-Thumb@2x.jpg"; sourceTree = "<group>"; };
-		5138B39C1D69197400FD2417 /* IMHO-Thumb@3x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMHO-Thumb@3x.jpg"; sourceTree = "<group>"; };
 		5138B39D1D69197400FD2417 /* IRL-Large.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IRL-Large.jpg"; sourceTree = "<group>"; };
 		5138B39E1D69197400FD2417 /* IRL-Thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IRL-Thumb.jpg"; sourceTree = "<group>"; };
 		5138B39F1D69197400FD2417 /* IRL-Thumb@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IRL-Thumb@2x.jpg"; sourceTree = "<group>"; };
@@ -172,10 +164,6 @@
 				5138B3961D69197400FD2417 /* IDK-Thumb.jpg */,
 				5138B3971D69197400FD2417 /* IDK-Thumb@2x.jpg */,
 				5138B3981D69197400FD2417 /* IDK-Thumb@3x.jpg */,
-				5138B3991D69197400FD2417 /* IMHO-Large.jpg */,
-				5138B39A1D69197400FD2417 /* IMHO-Thumb.jpg */,
-				5138B39B1D69197400FD2417 /* IMHO-Thumb@2x.jpg */,
-				5138B39C1D69197400FD2417 /* IMHO-Thumb@3x.jpg */,
 				5138B39D1D69197400FD2417 /* IRL-Large.jpg */,
 				5138B39E1D69197400FD2417 /* IRL-Thumb.jpg */,
 				5138B39F1D69197400FD2417 /* IRL-Thumb@2x.jpg */,
@@ -287,13 +275,10 @@
 				5138B3E91D69197400FD2417 /* WTF-Large.jpg in Resources */,
 				5138B3E31D69197400FD2417 /* RTFM-Thumb@2x.jpg in Resources */,
 				5138B3EC1D69197400FD2417 /* WTF-Thumb@3x.jpg in Resources */,
-				5138B3CC1D69197400FD2417 /* IMHO-Thumb@3x.jpg in Resources */,
 				5138B3DA1D69197400FD2417 /* OMG-Thumb.jpg in Resources */,
-				5138B3CA1D69197400FD2417 /* IMHO-Thumb.jpg in Resources */,
 				5138B3D11D69197400FD2417 /* LMAO-Large.jpg in Resources */,
 				5138B3DD1D69197400FD2417 /* ROFL-Large.jpg in Resources */,
 				5138B3D21D69197400FD2417 /* LMAO-Thumb.jpg in Resources */,
-				5138B3CB1D69197400FD2417 /* IMHO-Thumb@2x.jpg in Resources */,
 				5138B3DF1D69197400FD2417 /* ROFL-Thumb@2x.jpg in Resources */,
 				5138B3D51D69197400FD2417 /* LOL-Large.jpg in Resources */,
 				5138B3C51D69197400FD2417 /* IDK-Large.jpg in Resources */,
@@ -303,7 +288,6 @@
 				5138B3DE1D69197400FD2417 /* ROFL-Thumb.jpg in Resources */,
 				5138B3DC1D69197400FD2417 /* OMG-Thumb@3x.jpg in Resources */,
 				51BE9E661A2667CD00578AA0 /* Images.xcassets in Resources */,
-				5138B3C91D69197400FD2417 /* IMHO-Large.jpg in Resources */,
 				5138B3E71D69197400FD2417 /* TLDR-Thumb@2x.jpg in Resources */,
 				5138B3D81D69197400FD2417 /* LOL-Thumb@3x.jpg in Resources */,
 				5138B3E01D69197400FD2417 /* ROFL-Thumb@3x.jpg in Resources */,
